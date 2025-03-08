@@ -1,0 +1,11 @@
+|add1b
+inv_i => i4.IN0
+inv_i => i3.IN0
+c_i => i7.IN1
+a_i => i6.IN1
+b_i => i3.IN1
+b_i => i4.IN1
+s_o <= i7.DB_MAX_OUTPUT_PORT_TYPE
+x_o <= i5.DB_MAX_OUTPUT_PORT_TYPE
+
+
